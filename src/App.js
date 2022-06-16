@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload. Oh Reski Mulud Muchamad configure this site for CI/CD
+          Edit <code>src/App.js</code> and save to reload. Oh Reski Mulud Muchamad configure this site for CI/CD again
         </p>
         <a
           className="App-link"
