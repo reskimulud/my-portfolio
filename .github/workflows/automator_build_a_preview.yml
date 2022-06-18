@@ -58,6 +58,7 @@ jobs:
   comment:
     name: Give a comment on Pull Request
     runs-on: ubuntu-latest
+    needs: deploy
     
     steps:
       - uses: actions/github-script@v5
